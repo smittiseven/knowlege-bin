@@ -1,3 +1,3 @@
 # knowlege-bin
 learned information
-this is my first attempt of learning more about computer languges I am excited to learn more
+this is my first attempt of learning more about computer langauges I am excited to learn more
